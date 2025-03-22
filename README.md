@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 ### Installation
 #### 1. Clone the Repository
 ```sh
-git clone 
+git clone https://github.com/rohan-potdar77/ws.git
 cd ws
 ```
 #### 2. Install Backend Dependencies
